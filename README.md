@@ -1,5 +1,18 @@
 ### Hi there 👋
 
+
+**Han** is a Software Engineer with a specialty in Ecommerce solutions. She focusing on the Enterprise Information Systems like ERP, CRM... Her journey in the Ecommerce realm has been both technical and business. Basd on her previous E-commerce project experiences, Han has a Prodessional Insights on the Whole Life-Cycle for the Enterprise software development, and rich understanding of business models and product functionalities. Her aim is to deliver solutions that strike the right balance between technical prowess and user-centric design and improve the efficiency on both developing and communicating in a software developers team. 
+
+Han's **Backend Tech Stack** includes SpringBoot, Spring Cloud, Spring Security; Her **Frontend Tech Stack** inclides TypeScript(Anguar), JavaScript(ReactJS); Her **Microservices Tech stack** inclides AWS, Docker, Kafka, Kubernetes... 
+
+Please check Han's Products:
+
+- ⚡ **Quick Mall Backend version 1.0**: Developing a E-commerce platform and a product&order Management System using Springboot + Angular. [[QuickMall website]](https://quickmall24.com/) | [[AWS-deploy-video]](https://www.youtube.com/playlist?list=PLKJC3aN3a3EWE4Od9iF-XgpAR_fLKKRzp) | code: [[frontend]](https://github.com/coco2023/MyEcommerce-Web-frontend) | [[backend]](https://github.com/coco2023/coco2023-MyEcommerce-Web-backend) | [[Learning]](https://github.com/coco2023/rbac-sys/tree/main/MyPrac05-SpringBoot-Angular7-Online-Shopping-Store)
+- 💬 **The Impact of Danmaku Information Quality on Consumers’ Impulsive Consumption Behavior**: The present study investigates how comsumers become impulsive after effecting by the e-commerce platform features. [[Paper Abstract]](https://journals.aom.org/doi/abs/10.5465/AMPROC.2023.10474abstract)
+
+⚡⚡⚡ **Updated version : Quick Mall Backend version 2.0(In the Process)** ⚡⚡⚡
+
+
 <!--
 **coco2023/coco2023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
