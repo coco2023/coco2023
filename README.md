@@ -1,9 +1,7 @@
 ### Hi there 👋 Please visit my E-commerce Website: https://quickmall24.com
 
 
-**Han** is a Software Engineer with a specialty in Ecommerce solutions. She focusing on the Enterprise Information Systems like ERP, CRM... Her journey in the Ecommerce realm has been both technical and business. Basd on her previous E-commerce project experiences, Han has a Prodessional Insights on the Whole Life-Cycle for the Enterprise software development, and rich understanding of business models and product functionalities. Her aim is to deliver solutions that strike the right balance between technical prowess and user-centric design and improve the efficiency on both developing and communicating in a software developers team. 
-
-Han's **Backend Tech Stack** includes SpringBoot, Spring Cloud, Spring Security; Her **Frontend Tech Stack** inclides TypeScript(Anguar), JavaScript(ReactJS); Her **Microservices Tech stack** inclides AWS, Docker, Kafka, Kubernetes... 
+**Han** is a Software Engineer with a specialty in Ecommerce solutions. She focusing on the Enterprise Information Systems like ERP, CRM... Her **Backend Tech Stack** includes SpringBoot, Spring Cloud, Spring Security; Her **Frontend Tech Stack** inclides TypeScript(Anguar), JavaScript(ReactJS); Her **Microservices Tech stack** inclides AWS, Docker, Kafka, Kubernetes... 
 
 Please check Han's Products:
 
@@ -12,6 +10,7 @@ Please check Han's Products:
 
 ⚡⚡⚡ **Updated version : Quick Mall version 2.0(In the Process)** ⚡⚡⚡
 
+Han's journey in the Ecommerce realm has been both technical and business. Basd on her previous E-commerce project experiences, Han has a Prodessional Insights on the Whole Life-Cycle for the Enterprise software development, and rich understanding of business models and product functionalities. Her aim is to deliver solutions that strike the right balance between technical prowess and user-centric design and improve the efficiency on both developing and communicating in a software developers team. 
 
 <!--
 **coco2023/coco2023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
