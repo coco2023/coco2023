@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 Please visit my E-commerce Website: https://quickmall24.com
 
 
 **Han** is a Software Engineer with a specialty in Ecommerce solutions. She focusing on the Enterprise Information Systems like ERP, CRM... Her journey in the Ecommerce realm has been both technical and business. Basd on her previous E-commerce project experiences, Han has a Prodessional Insights on the Whole Life-Cycle for the Enterprise software development, and rich understanding of business models and product functionalities. Her aim is to deliver solutions that strike the right balance between technical prowess and user-centric design and improve the efficiency on both developing and communicating in a software developers team. 
