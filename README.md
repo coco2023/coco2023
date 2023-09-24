@@ -3,7 +3,7 @@
 
 **Han** is a Software Engineer with a specialty in Ecommerce solutions. She focusing on the Enterprise Information Systems like ERP, CRM... Her **Backend Tech Stack** includes SpringBoot, Spring Cloud, Spring Security; Her **Frontend Tech Stack** inclides TypeScript(Anguar), JavaScript(ReactJS); Her **Microservices Tech stack** inclides AWS, Docker, Kafka, Kubernetes... 
 
-Please check Han's Products:
+These are Han's Products:
 
 - ⚡ **Quick Mall version 1.0**: Developing a E-commerce platform and a product&order Management System using Springboot + Angular. [[QuickMall website]](https://quickmall24.com/) | [[AWS-deploy-video]](https://www.youtube.com/playlist?list=PLKJC3aN3a3EWE4Od9iF-XgpAR_fLKKRzp) | code: [[frontend]](https://github.com/coco2023/MyEcommerce-Web-frontend) | [[backend]](https://github.com/coco2023/coco2023-MyEcommerce-Web-backend) | [[Learning & Built Process]](https://github.com/coco2023/rbac-sys/tree/main/MyPrac05-SpringBoot-Angular7-Online-Shopping-Store)
 - 💬 **The Impact of Danmaku Information Quality on Consumers’ Impulsive Consumption Behavior**: The present study investigates how comsumers become impulsive after effecting by the e-commerce platform features. [[Paper Abstract]](https://journals.aom.org/doi/abs/10.5465/AMPROC.2023.10474abstract)
