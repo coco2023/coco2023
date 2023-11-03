@@ -1,4 +1,4 @@
-### <center> Hi there 👋 Please visit my E-commerce Website: https://quickmall24.com </center> 
+### <center> Hi there 👋 Please visit my E-commerce Website(continuing updating): https://quickmall24.com </center> 
 
 
 **Han** is a Software Engineer with a specialty in Ecommerce solutions. She focusing on the Enterprise Information Systems like ERP, CRM... Her **Backend Tech Stack** includes SpringBoot, Spring Cloud, Spring Security; Her **Frontend Tech Stack** inclides TypeScript(Anguar), JavaScript(ReactJS); Her **Microservices Tech stack** inclides AWS, Docker, Kafka, Kubernetes... 
