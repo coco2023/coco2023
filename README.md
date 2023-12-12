@@ -1,5 +1,10 @@
-### <center> Hi there 👋 Please visit my E-commerce Website(continuing updating): https://quickmall24.com </center> 
+### <center> Hi there 👋 Please visit my E-commerce Website(continuing updating) below </center> 
 
+| Demo Link | Version | Company | Tech Stack | Independent Work |
+|---|---|---|---|---|
+|[UmiUni-Shop](https://www.quickmall24.com) | Dev-test Mode | UmiUni | SpringBoot + ReactJS | Independent |
+|[QuickMall](https://www.quickmall24.com) | Dev-test Mode | Cogent Infotech | SpringBoot + Angular | Independent |
+|[UmiUni-Main-Site](https://umiuni.com/) | Production Mode | UmiUni | NodeJS + ReactJS | Team Work |
 
 **Han** is a Software Engineer with a specialty in Ecommerce solutions. She focusing on the Enterprise Information Systems like ERP, CRM... Her **Backend Tech Stack** includes SpringBoot, Spring Cloud, Spring Security; Her **Frontend Tech Stack** inclides TypeScript(Anguar), JavaScript(ReactJS); Her **Microservices Tech stack** inclides AWS, Docker, Kafka, Kubernetes... 
 
