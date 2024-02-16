@@ -1,7 +1,7 @@
 ### <center> Hi there 👋 Please visit my E-commerce Websites(continuing updating) below </center> 
 
 | Demo Link | Version | Company | Tech Stack | Independent Work | Doc文档 |
-|---|---|---|---|---|
+|---|---|---|---|---|---|
 |[[UmiUni-Shop](https://www.quickmall24.com)] <br> [[[UmiUni-ERP](https://www.quickmall24.com/brand)]  | Dev-test Mode | UmiUni | **SpringBoot + ReactJS** | Independent | [[语雀](https://www.yuque.com/u1090931/atruez/ld1t8k67bie5lqro?singleDoc=)] |
 |[QuickMall](https://quickmall24.com/#/product) | Dev-test Mode | Cogent Infotech | **SpringBoot + Angular** | Independent | |
 |[UmiUni-Main](https://umiuni.com/) | Production Mode | UmiUni | **NodeJS + ReactJS** | Team Work | |
