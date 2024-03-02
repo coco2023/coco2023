@@ -2,7 +2,7 @@
 
 | Demo Link | Version | Company | Tech Stack | Independent Work | Doc文档 |
 |---|---|---|---|---|---|
-|[[**UmiUni-Shop**](https://www.quickmall24.com)] <br> [[[**UmiUni-ERP**](https://www.quickmall24.com/brand)]  | Dev-test Mode | UmiUni | **SpringBoot + ReactJS** | Independent | [[**语雀doc**](https://www.yuque.com/u1090931/atruez/ld1t8k67bie5lqro?singleDoc=)] |
+|[[**UmiUni-Shop**](https://www.quickmall24.com)] <br> [[**UmiUni-ERP**](https://www.quickmall24.com/brand)]  | Dev-test Mode | UmiUni | **SpringBoot + ReactJS** | Independent | [[**语雀doc**](https://www.yuque.com/u1090931/atruez/ld1t8k67bie5lqro?singleDoc=)] |
 |[**QuickMall**](https://github.com/coco2023/QuickMall-eCommerce) | Dev-test Mode | Cogent Infotech | **SpringBoot + Angular** | Independent | |
 |[**UmiUni-Main**](https://umiuni.com/) | Production Mode | UmiUni | **NodeJS + ReactJS** | Team Work | |
 |[[**系统API设计-System API**](https://xmind.ai/share/8mRcOqHC?sheet-id=5f2ccf5e-977d-4d7e-9f62-7a2ab0fc898e)] | [[**案例分析文档(以Temu为例)-Business WorkFlow**](https://xmind.ai/share/8mRcOqHC?sheet-id=734f567a-aa80-4e93-989e-239821eda367)] | [[**系统功能拆解-System Function**](https://xmind.ai/share/8mRcOqHC?sheet-id=0a6107ce-5e8f-48a9-a83a-810c9e39db68)] | Shop-System-MindMap | MindMap | 业务流程思维导图 |
