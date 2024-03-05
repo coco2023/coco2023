@@ -6,7 +6,7 @@
 |[**QuickMall**](https://github.com/coco2023/QuickMall-eCommerce) | Dev-test Mode | Cogent Infotech | **SpringBoot + Angular** | Independent | |
 |[**UmiUni-Main**](https://umiuni.com/) | Production Mode | UmiUni | **NodeJS + ReactJS** | Team Work | |
 |[[**系统API设计-System API**](https://xmind.ai/share/8mRcOqHC?sheet-id=5f2ccf5e-977d-4d7e-9f62-7a2ab0fc898e)] | [[**案例分析文档(以Temu为例)-Business WorkFlow**](https://xmind.ai/share/8mRcOqHC?sheet-id=734f567a-aa80-4e93-989e-239821eda367)] | [[**系统功能拆解-System Function**](https://xmind.ai/share/8mRcOqHC?sheet-id=0a6107ce-5e8f-48a9-a83a-810c9e39db68)] | [[**打印宝-e记账**](https://jsgjc.jse.edu.cn/cxcypt/cxcypt/Index/ItemDetail?id=e503080f-2c39-4cc4-bd7c-c0d29adacb36&_pageIndex=2437)] 2019 | [[**PPT Slides**](https://github.com/coco2023/2020-China_Internet-Innovation_Competition?tab=readme-ov-file#%E5%8D%B0%E8%BF%B9%E5%95%86%E4%B8%9A%E6%A8%A1%E5%BC%8F%E7%94%BB%E5%B8%83)] 2020 | 业务流程思维导图 |
-| [牛客](https://www.nowcoder.com/users/941381223/tests?type=2) 50 | [力扣](https://leetcode.cn/u/chitchi/) 100 | [Leetcode](https://leetcode.com/jiayou2023/) 0 | 20240302 | (正在刷) |  |
+| [牛客](https://www.nowcoder.com/users/941381223/tests?type=2) 72 | [力扣](https://leetcode.cn/u/chitchi/) 110 | [Leetcode](https://leetcode.com/jiayou2023/) 0 | 20240302 | (正在刷) |  |
 
 
 **Han** is a Software Engineer with a specialty in Ecommerce solutions. She focusing on the Enterprise Information Systems like ERP, CRM... Her **Backend Tech Stack** includes SpringBoot, Spring Cloud, Spring Security; Her **Frontend Tech Stack** includes TypeScript(Anguar), JavaScript(ReactJS); Her **Microservices Tech stack** inclides AWS, Docker, Kafka, Kubernetes... 
