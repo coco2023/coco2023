@@ -2,7 +2,7 @@
 
 | Demo Link | Version | Company | Tech Stack | Independent Work | Doc文档 |
 |---|---|---|---|---|---|
-| 小练手们[demo projects] |[支付系统](https://github.com/coco2023/Transaction_Sys) | [权限系统](https://github.com/coco2023/rbac-sys) | [消息系统](https://github.com/coco2023/Messaging-Sys) | [TypeScript](https://github.com/coco2023/MyEcommerce-Web-frontend) | [权限+kafka+Cloud+TS+WebSocket](https://github.com/coco2023/ERP-Auth-Sys)|
+| 小练手们[demo] |[支付系统](https://github.com/coco2023/Transaction_Sys) | [权限系统](https://github.com/coco2023/rbac-sys) | [消息系统](https://github.com/coco2023/Messaging-Sys) | [TypeScript](https://github.com/coco2023/MyEcommerce-Web-frontend) | [权限+kafka+Cloud+TS+WebSocket](https://github.com/coco2023/ERP-Auth-Sys)|
 |[[**UmiUni-Shop**](https://www.quickmall24.com)] <br> [[**UmiUni-ERP**](https://www.quickmall24.com/brand)]  | Dev-test Mode | UmiUni | **SpringBoot + ReactJS** | Independent | [[**语雀doc**](https://www.yuque.com/u1090931/atruez/ld1t8k67bie5lqro?singleDoc=)] |
 |[**QuickMall**](https://github.com/coco2023/QuickMall-eCommerce) | Dev-test Mode | Cogent Infotech | **SpringBoot + Angular** | Independent | |
 |[**UmiUni-Main**](https://umiuni.com/) | Production Mode | UmiUni | **NodeJS + ReactJS** | Team Work |  |
