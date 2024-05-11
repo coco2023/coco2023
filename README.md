@@ -11,8 +11,6 @@
 
 **Han's ecommerce realm has been both technical and business**. She focusing on the **business workflow & development** of Enterprise **Information Systems**. **Tech Stack Backend**: SpringBoot, Spring Cloud, Spring Security; **Frontend**: TypeScript(Anguar), JavaScript(ReactJS); **Microservices**:AWS, Docker, Kafka, Kubernetes... 
 
-| [牛客]() 72 + 10 + 14 + 20, 10+10 | [力扣]() 114 + 30 + 8 +11 + 20 + 12, 10 + 11 + 43 | [Blind75](https://github.com/coco2023/Blind75) <br/> [Colab](https://colab.research.google.com/drive/1tA8NmWblFKK-PEp9mBs1LSRFUCz4GcFB?usp=sharing) | [印度八股](https://github.com/coco2023/Java-InterView/blob/main/1000%20Java%20Interview%20Questions.pdf) [国内八股](https://xmind.ai/share/YG9U8vV3?xid=rZhGmvb5) | [成绩单排名<br/>Score&Ranking](https://github.com/coco2023/Transcript-Ranking)  |  |
-
 - ⚡ **UmiUni FullStack**: an ERP integrated E-commerce website for second-hand goods, enable **PayPal**, **Stripe** as Payment Methods. **[ [backend](https://github.com/coco2023/shopV2-backend) | [frontend](https://github.com/coco2023/shopV2-frontend)]** 
 - 🔭 **Quick Mall Backend version 2.0**: a better ERP integrated E-commerce backend: **[[Message&Coupon](https://github.com/coco2023/QuickMall-eCommerce/tree/main/3%20EcommerceBackend/coupon-service)], [[product](https://github.com/coco2023/QuickMall-eCommerce/tree/main/3%20EcommerceBackend/product-service)], [[cart](https://github.com/coco2023/QuickMall-eCommerce/tree/main/3%20EcommerceBackend/cart-service)], [[order](https://github.com/coco2023/QuickMall-eCommerce/tree/main/3%20EcommerceBackend/order-service)], [[payment](https://github.com/coco2023/QuickMall-eCommerce/tree/main/3%20EcommerceBackend/payment-service)] && [[RBAC-based user control service](https://github.com/coco2023/QuickMall-eCommerce/tree/main/3%20EcommerceBackend/auth-service)] | [[backend](https://github.com/coco2023/QuickMall-eCommerce)] | [[API Document](https://documenter.getpostman.com/view/23929301/2s9YJezMDK)]**
 - ⚡ **shop version 1.0**: Springboot + Angular. [[QuickMall website]](https://quickmall24.com/) | [[AWS-deploy-video]](https://www.youtube.com/playlist?list=PLKJC3aN3a3EWE4Od9iF-XgpAR_fLKKRzp) | code: [[frontend]](https://github.com/coco2023/MyEcommerce-Web-frontend) | [[backend]](https://github.com/coco2023/coco2023-MyEcommerce-Web-backend) | [[Learning & Built Process]](https://github.com/coco2023/rbac-sys/tree/main/MyPrac05-SpringBoot-Angular7-Online-Shopping-Store)
@@ -22,6 +20,9 @@
 
 
 <!--
+
+
+| [牛客]() 72 + 10 + 14 + 20, 10+10 | [力扣]() 114 + 30 + 8 +11 + 20 + 12, 10 + 11 + 43 | [Blind75](https://github.com/coco2023/Blind75) <br/> [Colab](https://colab.research.google.com/drive/1tA8NmWblFKK-PEp9mBs1LSRFUCz4GcFB?usp=sharing) | [印度八股](https://github.com/coco2023/Java-InterView/blob/main/1000%20Java%20Interview%20Questions.pdf) [国内八股](https://xmind.ai/share/YG9U8vV3?xid=rZhGmvb5) | [成绩单排名<br/>Score&Ranking](https://github.com/coco2023/Transcript-Ranking)  |  |
 
 ⚡⚡⚡ **Updated version : Quick Mall version 2.0( Frontend In the Process)** ⚡⚡⚡
 
