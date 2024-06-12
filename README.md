@@ -2,7 +2,7 @@
 
 | Demo Link | Version | Company | Tech Stack | Independent Work | Documents |
 |---|---|---|---|---|---|
-|  |[[payment System](https://github.com/coco2023/Transaction_Sys)]  [[payment gateway](https://github.com/coco2023/payment-Gateway)] | [Identity System(Oauth)](https://github.com/coco2023/rbac-sys) | [Message Sys(Kafka, MQ, SocketIO)](https://github.com/coco2023/Messaging-Sys) | [TypeScript](https://github.com/coco2023/MyEcommerce-Web-frontend) | [Identity+MQ,kafka](https://github.com/coco2023/ERP-Auth-Sys)|
+| [[**Java_Learning**](https://github.com/coco2023/Java-Interview)] |[[payment System](https://github.com/coco2023/Transaction_Sys)]  [[payment gateway](https://github.com/coco2023/payment-Gateway)] | [Identity System(Oauth)](https://github.com/coco2023/rbac-sys) | [Message Sys(Kafka, MQ, SocketIO)](https://github.com/coco2023/Messaging-Sys) | [TypeScript](https://github.com/coco2023/MyEcommerce-Web-frontend) | [Identity+MQ,kafka](https://github.com/coco2023/ERP-Auth-Sys)|
 |[[**UmiUni-Shop**](https://www.quickmall24.com)] <br> [[**UmiUni-ERP**](https://www.quickmall24.com/brand)]  | Dev-test Mode | UmiUni | **SpringBoot + ReactJS** | Independent | [[**umi shop-document**](https://www.yuque.com/u1090931/atruez/ld1t8k67bie5lqro?singleDoc=)] [[MindMap](https://xmind.ai/share/vF8JEWtB?xid=VVmI0XvK)] |
 |[**QuickMall**](https://github.com/coco2023/QuickMall-eCommerce) | Dev-test Mode | Cogent Infotech | **SpringBoot + Angular** | Independent | |
 |[**UmiUni-Main**](https://umiuni.com/) | Production Mode | UmiUni | **NodeJS + ReactJS** | Team Work, build <br/>[[**DONATE** page](https://us.umiuni.com/donate/payment)] |  |
