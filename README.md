@@ -1,4 +1,4 @@
-### <center> Hi there 👋 Please visit my E-commerce Websites, and my response to the last 2 years' of layoff wave below </center> 
+### <center> Hi there 👋 Please visit my E-commerce Websites, and my response to the past 2 years' of layoff wave </center> 
 
 | Demo Link | Version | Company | Tech Stack | Independent Work | Documents |
 |---|---|---|---|---|---|
