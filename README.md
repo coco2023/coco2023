@@ -1,4 +1,4 @@
-### Feb. 2025: Offer Call from a Global Payment Company AT <img src="Onerway logo.png" alt="img" width="50"/>
+### Feb. 2025: Offer Call from a Global Payment Company AT <img src="logo.png" alt="img" width="50"/>
 
 ### Grateful to everyone who stood by me during that hardest time.
 
