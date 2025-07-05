@@ -2,7 +2,8 @@
 
 ### Grateful to everyone I met during the hardest time.
 
-### ---------------------------------------------------
+---
+
 ### @2024: Hi there 👋 Please visit my E-commerce Websites, and my response to the past 2 years' layoff wave
 
 | Demo Link | Version | Company | Tech Stack | Independent Work | Documents |
