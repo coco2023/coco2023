@@ -1,4 +1,8 @@
-### <center> Hi there 👋 Please visit my E-commerce Websites, and my response to the past 2 years' layoff wave </center> 
+### February 2025: Got an Offer from a Global Payment Company  
+<img src="Onerway logo.png" alt="img" width="200"/>
+
+### Grateful to everyone I met during that difficult period.
+### <center> 2024: Hi there 👋 Please visit my E-commerce Websites, and my response to the past 2 years' layoff wave </center> 
 
 | Demo Link | Version | Company | Tech Stack | Independent Work | Documents |
 |---|---|---|---|---|---|
