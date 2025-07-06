@@ -1,6 +1,6 @@
 ### Feb. 2025: Offer Call from a Global Payment Company @<img src="logo.png" alt="img" width="50"/>
 
-### Grateful to everyone who offered help and opportunities, and stood by me during the hardest time.
+### Grateful to everyone who offered help and opportunities, and stood by me during that hardest time.
 
 ---
 
